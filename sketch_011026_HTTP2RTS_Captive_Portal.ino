@@ -7,7 +7,7 @@
 #include <WiFiManager.h>  // WiFiManager library
 
 // ============================================
-// CC1101 PINS - MATCHES YOUR VERIFIED PINOUT
+// CC1101 PINS 
 // ============================================
 #define EMITTER_GPIO D2      // Pin 3 (GDO0) - Purple wire
 #define CC1101_CSN D8        // Pin 4 (CSN) - Orange wire
